@@ -10,9 +10,9 @@ getgenv().Rake = {
     Settings = {
         AimPart = "HumanoidRootPart",
         Prediction = { -- Set-based Prediction Values
-            Close = 0.131,
-            Mid = 0.1201,
-            Far = 0.1912
+            Close = 0.13,
+            Mid = 0.13322,
+            Far = 0.1194
         }
     }
 }
